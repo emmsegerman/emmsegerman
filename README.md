@@ -1,0 +1,4 @@
+- Hi, I’m Emma Segerman
+- I’m interested in baseball and sports analytics.
+- I’m currently learning R.
+- Contact Information: segerman@wharton.upenn.edu
